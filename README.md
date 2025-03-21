@@ -10,5 +10,3 @@
 [![](https://img.shields.io/badge/conatct_email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.olle@icloud.com)
 
 </p>
-
-[![teste](https://github-readme-stats.vercel.app/api?username=k8adev&show_icons=true&theme=tokyonight)](https://github.com/k8adev)
