@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandoolle&show_icons=true)](https://github.com/nandoolle)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandoolle&show_icons=true&theme=tokyonight)](https://github.com/nandoolle)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -8,6 +8,6 @@
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nandoolle)
 [![](https://img.shields.io/badge/mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](https://dev.to/nandoolle)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nandoolle)
-[![](https://wakatime.com/badge/user/158e6288-78a1-497a-8a2a-984f5b07d3a7.svg?style=for-the-badge)](https://www.fernandolle.com/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.fernandolle.com/)
 
 </p>
