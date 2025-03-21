@@ -1,6 +1,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandoolle&show_icons=true&theme=tokyonight)](https://github.com/nandoolle)
 
-<h2> 🤝🏻 Connect with Me </h2>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 
